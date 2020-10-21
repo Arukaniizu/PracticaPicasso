@@ -1,0 +1,7 @@
+<animation-list android:id="@+id/animationList"
+    android:oneshot="false"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:drawable="@drawable/acdc" android:duration="2000" />
+    <item android:drawable="@drawable/nirvana" android:duration="2000" />
+    <item android:drawable="@drawable/queen" android:duration="2000" />
+</animation-list>
